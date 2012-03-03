@@ -2,7 +2,7 @@
  * Twitter
  */
 function getTweets() {
-  var username   = 'feedhenry';
+  var username   = 'sanad';
   var num_tweets = 10;
   var url        = 'http://search.twitter.com/search.json?q=' + username;
 
