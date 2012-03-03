@@ -126,8 +126,8 @@ app.views.Home = Ext.extend(Ext.Panel, {
 		  		height: 100,
 		  		handler: function() {
 		  			$fh.webview({
-		  				title: 'FeedHenry',
-		  				url: 'http://www.feedhenry.com/'
+		  				title: 'Sanad',
+		  				url: 'http://www.apple.com/startpage/'
 		  			});
 		  		}
 		  	},
