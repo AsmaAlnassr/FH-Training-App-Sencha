@@ -2,7 +2,7 @@
  * Twitter
  */
 function getTweets() {
-  var username   = 'feedhenry';
+  var username   = 'sanadqatar';
   var num_tweets = 10;
   var url        = 'http://search.twitter.com/search.json?q=' + username;
 
@@ -15,7 +15,7 @@ function getTweets() {
 }
 
 /*
- * Payment
+ * Asma
  */ 
 function payment() {
   var cardType   = $params.cardType;
